@@ -7,8 +7,14 @@
 		    height: 57px;
 	}
 }
-/* @media only screen and (min-width: 500px) and (max-width: 1500px) {
-	.inp{
-		width: 35vw;
+@media screen  and (max-width: 500px) {
+	.box2{
+		width: 222px;
 	}
-} */
+	.inp{
+		    width: 199px;
+	}
+	#btn{
+		width: 200px;
+	}
+}
