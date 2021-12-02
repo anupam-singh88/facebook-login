@@ -1,0 +1,14 @@
+@media screen and (max-width:1500px) {
+	.box2{
+		    /* height: 19vh; */
+    margin-top: 26px;
+	}
+	.inp{
+		    height: 57px;
+	}
+}
+/* @media only screen and (min-width: 500px) and (max-width: 1500px) {
+	.inp{
+		width: 35vw;
+	}
+} */

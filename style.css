@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	    background-color: #f0f2f5;
+    display: flex;
+	flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
+.box1{
+      /* border: 2px solid red; */
+    width: 60vh;
+    padding: 11px;
+    height: 69vh;
+    margin-top: -169px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box2{
+	     /* border: 2px solid green; */
+    height: 400px;
+    width: 396px;
+    margin: 13px 71px 9px 59px;
+    border-radius: 9px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    margin: auto;
+    padding: 0 0 14px 0;
+    width: 396px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+#logo{
+	    width: 240px;
+    margin-top: 20px;
+}
+#para1{
+    font-size: 21px;
+    font-family: sans-serif;
+    padding: 9px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.inp{
+	      width: 366px;
+    margin: 10px 0 -15px 11px;
+    height: 6vh;
+    padding: 2px;
+    border-radius: 9px;
+    border: solid 2px #f0f2f5;
+    /* border: solid 2px black; */
+}
+#btn{
+	    margin-top: 29px;
+    background-color: #166fe5;
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+    height: 50px;
+    width: 376px;
+    margin-bottom: 17px;
+	cursor: pointer;
+}
+#para2{
+	    display: flex;
+    justify-content: center;
+    margin: 0px 0 18px 0;
+    font-size: 19px;
+    text-decoration: none;
+    color: #166fe5;
+}
+#line{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.hr{
+	    width: 160px;
+    display: inline-flex;
+	height: 0px;
+	color: #f0f2f5;
+}
+#btn2{
+	    background-color: #36a420;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    font-family: sans-serif;
+    width: 187px;
+    font-weight: bold;
+    margin: auto;
+    height: 44px;
+	cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
