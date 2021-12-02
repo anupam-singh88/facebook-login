@@ -9,15 +9,40 @@
 }
 @media screen  and (max-width: 500px) {
 	.box2{
-		width: 222px;
+		    /* width: 223px; */
+    background: transparent;
+    display: flex;
+    /* align-content: center; */
+    align-items: center;
+	box-shadow: none;
+    /* border: none; */
 	}
 	.inp{
-		    width: 199px;
+	    width: 351px;
+    padding-left: 14px;
+    border: 2px solid #8b8b8b;
+    height: 43px;
+	}
+	#para2{
+		font-size: 15px;
 	}
 	#btn{
-		width: 200px;
+		    width: 235px;
+    font-size: 15px;
+    height: 43px;
+    border: none;
 	}
 	#logo{
 		width: 180px;
+		margin-bottom: -35px;
 	}
+	#btn2{
+	
+    font-size: 13px;
+  
+    height: 35px;
+   border: none;
+    margin-top: 18px;
+	}
+
 }
